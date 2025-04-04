@@ -9,3 +9,4 @@ public/monero*
 public/monero_w*
 .env*
 !.env.example
+pnpm-workspace.yaml
